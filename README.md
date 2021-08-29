@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alik64
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML , CSS, Java Script
+- 🌱 I’m currently learning MERN
 
 
 <!---
