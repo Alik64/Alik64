@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Alik64
-- 🌱 I’m currently learning React.js 
-- Winners never quit ! Quitters never win!
+Winners never quit ! Quitters never win!
 
 
 <!---
