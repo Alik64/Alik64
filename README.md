@@ -1,4 +1,4 @@
-Fall in love with JAvaScript and React JS <3
+ React JS Front-End developer <3
 
 Winners never quit ! Quitters never win!
 
