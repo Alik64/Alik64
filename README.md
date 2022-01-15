@@ -1,4 +1,4 @@
- React JS Front-End developer <3
+ React JS Front-End developer ⚛️
 
 Winners never quit ! Quitters never win!
 
