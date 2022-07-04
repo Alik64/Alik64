@@ -1,4 +1,4 @@
- <div align='center'> React JS Front-End developer ⚛️ </div>
+ <div align='center'> React JS Front-End developer ⚛️ 
 
 Winners never quit ! Quitters never win! 👊🏻
 
@@ -13,3 +13,4 @@ Winners never quit ! Quitters never win! 👊🏻
 Alik64/Alik64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
