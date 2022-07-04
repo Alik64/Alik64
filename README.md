@@ -1,6 +1,4 @@
  <div align='center'> 
- <img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://www.capital.fr/imgre/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fcap.2F2022.2F01.2F12.2F7623cde1-fec3-4efb-9a80-179b76ebcb8e.2Ejpeg/768x432/background-color/ffffff/focus-point/1073%2C651/quality/70/tout-savoir-sur-cosmos-et-sa-cryptomonnaie-atom-au-programme-de-la-newsletter-21-millions-1425240.jpg)">
 
  # React JS Front-End developer ⚛️ 
  
