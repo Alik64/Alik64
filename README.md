@@ -1,4 +1,4 @@
- React JS Front-End developer ⚛️
+ <div align='center'> React JS Front-End developer ⚛️ </div>
 
 Winners never quit ! Quitters never win! 👊🏻
 
