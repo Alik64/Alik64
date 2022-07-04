@@ -1,7 +1,9 @@
- <div align='center'> React JS Front-End developer ⚛️ 
+ <div align='center'> 
+ 
+ # React JS Front-End developer ⚛️ 
  
 
-Winners never quit ! Quitters never win! 👊🏻
+## Winners never quit ! Quitters never win! 👊🏻
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alik64&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
@@ -92,7 +94,8 @@ Winners never quit ! Quitters never win! 👊🏻
   
  </div>
  
- ### Contact
+ ### Contacts
+ 
 <p align="center">
  
   <a href="https://linkedin.com/in/albert-64" target="blank"
