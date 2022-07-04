@@ -1,11 +1,6 @@
  <div align='center'> 
 
- # React JS Front-End developer   <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
+ # React JS Front-End developer   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
  
 
 ## Winners never quit ! Quitters never win! 👊🏻
