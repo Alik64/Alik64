@@ -8,7 +8,7 @@ Winners never quit ! Quitters never win! 👊🏻
 ### Languages and Tools
  <div align='center'>
   
-   <a
+ <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -20,6 +20,7 @@ Winners never quit ! Quitters never win! 👊🏻
       height="40"
     />
   </a>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
