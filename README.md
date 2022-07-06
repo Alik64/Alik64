@@ -92,15 +92,7 @@
       height="40"
     />
   </a>
-  
-  <img
-      src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  
-  
+
  </div>
  
  ### Contacts
