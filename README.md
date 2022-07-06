@@ -1,6 +1,6 @@
  <div align='center'> 
 
- #Front-End developer - React JS  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>
+ # Front-End developer - React JS  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>
  
  ## "Anything you can imagine can be coded!" 😉
 
