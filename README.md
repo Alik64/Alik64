@@ -17,6 +17,7 @@
     alt="javascript"
     width="40"
     height="40"
+    margin-right="10"
   />
   
   <!-- REACT -->
