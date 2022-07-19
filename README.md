@@ -1,6 +1,7 @@
  <div align='center'> 
 
  # Barsamov Albert
+  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/svg.svg " width="300" height="100"/>
  
 # Front-End developer - React JS  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
  
