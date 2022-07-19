@@ -1,6 +1,6 @@
  <div align='center'> 
  <div align='center'> 
- <h1 color='rgba(149, 202, 202, 0.3)'>Barsamov Albert</h1>
+ <h1 color=rgba(149, 202, 202, 0.3)>Barsamov Albert</h1>
  </div>
  
  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/waves.svg " width="100%" height="150"/>
