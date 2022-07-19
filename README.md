@@ -1,7 +1,7 @@
  <div align='center'> 
 
 
-  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/name.png " width="800" height="100"/>
+  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/name.png " width="500" height="100"/>
  
 # Front-End developer - React JS  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
  
