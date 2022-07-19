@@ -5,11 +5,6 @@
  
 # Front-End developer - React JS  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
  
- 
- <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/waves.svg " width="100%" height="150"/>
-
- 
- 
  ## "Anything you can imagine can be coded!" 😉
 
 ### Winners never quit ! Quitters never win! 👊🏻
@@ -126,6 +121,8 @@
       width="40"
   /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Alik64/Alik64/main/waves.svg " width="100%" height="150" />
 </div>
 
 
