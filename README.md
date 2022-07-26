@@ -122,7 +122,7 @@
   /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Alik64/Alik64/main/footer.gif " width="100%" height="150" />
+<img src="https://raw.githubusercontent.com/Alik64/Alik64/main/footer.gif " width="100%"/>
 </div>
 
 
