@@ -5,9 +5,9 @@
  
 ## Front-End developer - React JS  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>
  
- ### "Anything you can imagine can be coded!" 😉
+ ## "Anything you can imagine can be coded!" 😉
 
-#### Winners never quit ! Quitters never win! 👊🏻
+### Winners never quit ! Quitters never win! 👊🏻
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alik64&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
