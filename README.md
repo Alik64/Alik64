@@ -110,7 +110,7 @@
   
    <a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"
+      src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg"
       alt="git"
       width="40"
       height="40"
