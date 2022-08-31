@@ -105,6 +105,18 @@
       height="40"
     />
   </a>
+  
+  <!-- Solidity -->
+  
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
  </div>
  
