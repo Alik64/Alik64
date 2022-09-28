@@ -12,12 +12,25 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alik64&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Languages and Tools
- <div align='center'><img
+ <div align='center'>
+ <!-- JavaScript -->
+ <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
     width="40"
     height="40"
   />
+  
+ <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"
+    alt="typescript"
+    width="40"
+    height="40"
+  />
+  </a>
+  
   
   <!-- REACT -->
   
