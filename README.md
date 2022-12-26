@@ -1,7 +1,7 @@
  <div align='center'> 
 
+  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.gif" width="100%" height="auto"/>
 
-  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/banner.svg" width="100%" height="auto"/>
  
 ## Front-End developer - React JS  <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>
  
