@@ -42,6 +42,17 @@
       height="40"
     />
   </a>
+
+  <!-- Next -->
+  
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
   
   <!-- REDUX -->
   
