@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/banner.svg" width="100%" height="auto"/>
 
  
-## JavaScript developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+## 👨🏻‍💻 Web developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
  
  ## "Anything you can imagine can be coded!" 😉
 
