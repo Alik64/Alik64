@@ -35,15 +35,15 @@
   <!-- REACT -->
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="react" width="40" height="40"/>
   </a>
 
   <!-- Next -->
   
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png"
-      alt="react"
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      alt="nextjs"
       width="40"
       height="40"
     />
