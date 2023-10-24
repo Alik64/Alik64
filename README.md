@@ -3,11 +3,11 @@
 <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/banner.svg" width="100%" height="auto"/>
 
  
-## 👨🏻‍💻 Full stack developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="30" height="30"/>
+## 👨🏻‍💻 Front-end developer <img src="https://raw.githubusercontent.com/Alik64/Alik64/main/header_logo.svg" alt="reactnative" width="30" height="30"/>  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="30" height="30"/>
  
  ## "Anything you can imagine can be coded!" 😉
 
-### Winners never quit ! Quitters never win! 👊🏻
+### Losers quit when they fail. Winners fail until they succeed! 👊🏻
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alik64&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
